@@ -1,0 +1,6 @@
+<dependency>
+    <groupId>org.jasypt</groupId>
+    <artifactId>jasypt</artifactId>
+    <version>{version}</version>
+    <scope>compile</scope>
+</dependency>
